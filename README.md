@@ -2,7 +2,8 @@
 ```markdown
 # Data Structures and Algorithms Curriculum
 
-Welcome to the Data Structures and Algorithms Curriculum! This repository provides a comprehensive roadmap for learning fundamental and advanced concepts in programming, data structures, and algorithms.
+Welcome to the Data Structures and Algorithms Curriculum! This repository provides a comprehensive 
+roadmap for learning fundamental and advanced concepts in programming, data structures, and algorithms.
 
 ---
 
