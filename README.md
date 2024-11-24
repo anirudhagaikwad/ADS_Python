@@ -24,33 +24,33 @@ roadmap for learning fundamental and advanced concepts in programming, data stru
 - Advanced Topics (Optional based on pace and audience)
 
 ### 3. Core Data Structures
-- **Arrays and Basic Array Operations**
-- **Linked Lists**:
+- Arrays and Basic Array Operations
+- Linked Lists:
   - Singly Linked Lists
   - Doubly Linked Lists
   - Circular Linked Lists (Advanced)
-- **Stacks and Queues**:
+- Stacks and Queues:
   - Stacks and Basic Stack Operations
   - Queues and Basic Queue Operations
   - Advanced Stack and Queue Operations
 
 ### 4. Searching and Sorting Algorithms
-- **Basic Sorting Algorithms**:
+- Basic Sorting Algorithms:
   - Bubble Sort
   - Selection Sort
   - Insertion Sort
   - Merge Sort
-- **Advanced Sorting Algorithms**:
+- Advanced Sorting Algorithms:
   - Quick Sort
   - Heap Sort
   - Radix Sort
   - Bucket Sort
   - External Sort
   - Timsort
-- **Basic Searching Algorithms**:
+- Basic Searching Algorithms:
   - Linear Search
   - Binary Search
-- **Advanced Searching Algorithms**:
+- Advanced Searching Algorithms:
   - Binary Search Trees (BST)
   - Binary Search in Rotated Array
   - Interpolation Search
@@ -96,10 +96,10 @@ roadmap for learning fundamental and advanced concepts in programming, data stru
 
 ## How to Use This Curriculum
 
-1. **Start with the Basics**: Build a strong foundation in programming and basic data structures.
-2. **Progress Gradually**: Work through core data structures, algorithms, and advanced topics.
-3. **Practice and Implement**: Solve problems and implement each topic to reinforce learning.
-4. **Explore Advanced Topics**: Once comfortable, dive into specialized and advanced topics such as graph theory, dynamic programming, and probabilistic data structures.
+1. Start with the Basics: Build a strong foundation in programming and basic data structures.
+2. Progress Gradually: Work through core data structures, algorithms, and advanced topics.
+3. Practice and Implement: Solve problems and implement each topic to reinforce learning.
+4. Explore Advanced Topics: Once comfortable, dive into specialized and advanced topics such as graph theory, dynamic programming, and probabilistic data structures.
 
 ---
 
