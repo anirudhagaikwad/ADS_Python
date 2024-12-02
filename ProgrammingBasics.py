@@ -745,7 +745,7 @@ def main():
     divide_numbers(10, 2)  # Valid division
     divide_numbers(10, 0)  # Division by zero
     divide_numbers(10, "five")  # Invalid data type
-
+    
     # Example of debugging using `assert`
     print("\nDebugging with Assertions:")
     print(f"Square root of 16 is {calculate_square_root(16)}")
